@@ -62,8 +62,8 @@ This project was built as part of an assignment to create a **full-stack AI appl
 
 ## 📊 Flowchart
 
-![Flowchart](flowchart.png)  
-*(Add your app flow diagram here — e.g., transcript upload → AI summarization → edit → email send)*  
+![Flowchart](https://github.com/jyotsna030/AI-powered-Documents-summarizer-and-sharer/blob/main/AI-Docs-summarizer.png)  
+
 
 ---
 
